@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONFIG_DIR="$HOME/.config/nvim"
-DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=1hImi2NrbDGgu3QxnBN4vqJkefAURxdb0"
+DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=1_Eph4mrpR5Y1rokDlEvfAslBr1LK42Y2"
 FILE_NAME="lazy-nvim-main.zip"
 TEMP_DIR="$HOME/.config/nvim-temp"
 
