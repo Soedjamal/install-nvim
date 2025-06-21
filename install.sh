@@ -24,7 +24,7 @@ fi
 
 echo "🚀 Memasang ke $CONFIG_DIR ..."
 rm -rf "$CONFIG_DIR"
-mv "$TEMP_DIR/lazy-nvim" "$CONFIG_DIR"
+mv "$TEMP_DIR/lazy-nvim-main" "$CONFIG_DIR"
 
 # Bersih-bersih
 rm -rf "$TEMP_DIR"
