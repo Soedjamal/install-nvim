@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONFIG_DIR="$HOME/.config/nvim"
-DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=1abcdEfGhIjKlMnO9" # Ganti dengan ID kamu
+DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=1hImi2NrbDGgu3QxnBN4vqJkefAURxdb0" # Ganti dengan ID kamu
 FILE_NAME="lazy-nvim-main.zip"
 TEMP_DIR="$HOME/.config/nvim-temp"
 
