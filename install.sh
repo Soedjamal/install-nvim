@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONFIG_DIR="$HOME/.config/nvim"
-DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=1_cHxNOdpHwM7uHpiwl_gXSmCqy6AKfQI"
+DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=1hImi2NrbDGgu3QxnBN4vqJkefAURxdb0"
 FILE_NAME="lazy-nvim-main.zip"
 
 echo "Mengunduh template..."
