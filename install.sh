@@ -1,4 +1,6 @@
-CONFIG_DIR="$HOME/.config/nvim" DOWNLOAD_URL="[https://drive.google.com/uc?export=download&id=1_Eph4mrpR5Y1rokDlEvfAslBr1LK42Y2]" FILE_NAME="lazy-nvim-main.zip"
+CONFIG_DIR="$HOME/.config/nvim" 
+DOWNLOAD_URL="[https://drive.google.com/uc?export=download&id=1_Eph4mrpR5Y1rokDlEvfAslBr1LK42Y2]" 
+FILE_NAME="lazy-nvim-main.zip"
  
 echo "Mengunduh template..." wget --quiet --no-check-certificate "$DOWNLOAD_URL" -O "$FILE_NAME"
  
