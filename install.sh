@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CONFIG_DIR="$HOME/.config/nvim"
-FILE_ID="1hImi2NrbDGgu3QxnBN4vqJkefAURxdb0" # Ganti dengan ID milikmu
+FILE_ID="1hImi2NrbDGgu3QxnBN4vqJkefAURxdb0"
 FILE_NAME="lazy-nvim-main.zip"
 TEMP_DIR="$HOME/.config/nvim-temp"
 
@@ -37,6 +37,7 @@ echo "🚀 Memasang ke $CONFIG_DIR..."
 rm -rf "$CONFIG_DIR"
 mv "$EXTRACTED_DIR" "$CONFIG_DIR"
 
+# Bersih-bersih
 rm -rf "$TEMP_DIR"
 rm -f "$FILE_NAME"
 
